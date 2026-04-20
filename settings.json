@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "arthpaanchal.aternos.me:33353",
+    "ip": "arthpaanchal.aternos.me",
     "port": 33353,
     "version": "",
     "try-creative": false
